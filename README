@@ -1,0 +1,10 @@
+To Compile:
+Type "make" in the terminal
+
+To Run:
+./submission inputFileName outputFileName
+
+
+Purpose:
+Print out all the keys that are equal to the sum of the other two keys in the array, and print out the corresponding two keys.  
+
